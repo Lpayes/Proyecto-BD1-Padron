@@ -1,0 +1,30 @@
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Configuración local de Visual Studio
+*.user
+*.suo
+
+# Variables de entorno y secretos
+.env
+
+# Logs
+*.log
+
+# Máquinas virtuales
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
